@@ -7,6 +7,6 @@ Dane wykorzystane w tym projekcie pochodzą ze strony: https://the-eye.eu/redarc
 - https://the-eye.eu/redarcs/files/Cartalk_submissions.zst
 - https://the-eye.eu/redarcs/files/Cartalk_comments.zst
 
-Z powyższych zbiorów wydrębniono posty związane z pojazdami elektrycznymi zamieszczone w okresie 01/01/2012 - 31/12/2022 i powiązane z tymi postami komentarze. 
+Z powyższych zbiorów wydrębniono posty związane z pojazdami elektrycznymi zamieszczone w okresie 01/01/2012 - 31/12/2022 i powiązane z tymi postami komentarze. Tak przygotowane dane są dostępne w tym repozytorium.
 
 Do przypisania wartości sentymentu dla postów i komentarzy wykorzystano SentimentIntensityAnalyzer z NLTK, a w procesie modelowania tematycznego użyto utajonej alokazji Dirichleta i zidentyfikowano 3 główne grupy tematyczne, dla różnych podzbiorów.
